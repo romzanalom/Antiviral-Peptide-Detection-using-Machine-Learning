@@ -1,1 +1,1 @@
-# Antiviral-Peptide-Detection-using-Machine-Learning
+Antiviral peptides (AVPs) are a subset of antimicrobial peptides and are a potential resource for the development of new potent therapeutics for preventing or treating viral infection. In this project we create a dataset where preprocess it and using this preproessed dataset we train 8 models and use some evalution matrix for evaluating those model and fnally predict avp or not from real data.
